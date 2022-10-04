@@ -1,0 +1,156 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Element.h
+string
+-
+cctype
+-
+iostream
+-
+list
+-
+math.h
+-
+Point3D.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Point3D.h
+math/Matrix.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Matrix.h
+math/Polynom.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Polynom.h
+limits
+-
+FaceContainer.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/FaceContainer.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Face.h
+iostream
+-
+vector
+-
+list
+-
+fstream
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/FaceContainer.h
+iostream
+-
+vector
+-
+list
+-
+Face.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Face.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Hexahedron.h
+Element.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Element.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Metric.h
+Element.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Element.h
+Point3D.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Point3D.h
+vector
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Point3D.h
+iostream
+-
+sstream
+-
+math.h
+-
+list
+-
+vector
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Prism.h
+Element.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Element.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Pyramid.h
+Element.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Element.h
+Tetrahedron.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Tetrahedron.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Quality.cpp
+Quality.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Quality.h
+limits.h
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Quality.h
+Hexahedron.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Hexahedron.h
+Prism.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Prism.h
+Pyramid.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Pyramid.h
+Tetrahedron.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Tetrahedron.h
+Point3D.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Point3D.h
+Metric.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Metric.h
+map
+-
+tuple
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Tetrahedron.h
+Element.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/Element.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Container1.cpp
+Container1.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Container1.h
+ContainerTools.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/ContainerTools.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Container1.h
+stdio.h
+-
+Container1.cpp
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Container1.cpp
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/ContainerTools.cpp
+ContainerTools.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/ContainerTools.h
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/ContainerTools.h
+ContainerTools.cpp
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/ContainerTools.cpp
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/List.h
+stdio.h
+-
+string.h
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Matrix.h
+math.h
+-
+Container1.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Container1.h
+List.h
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/List.h
+string
+-
+stdarg.h
+-
+cstdlib
+-
+
+/home/fabio/Documents/memoria-20211112T140831Z-001/memoria/respaldo2/LatestVersions/jens_repair V2.4/src/math/Polynom.h
+string
+-
+
